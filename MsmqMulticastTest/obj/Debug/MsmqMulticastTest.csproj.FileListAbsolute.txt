@@ -1,0 +1,1 @@
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest\bin\Debug\MsmqMulticastTest.exe.config

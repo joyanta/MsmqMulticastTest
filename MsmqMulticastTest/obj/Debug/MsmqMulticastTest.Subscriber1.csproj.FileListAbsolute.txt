@@ -1,0 +1,5 @@
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest\bin\Debug\MsmqMulticastTest.exe.config
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest\bin\Debug\MsmqMulticastTest.exe
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest\bin\Debug\MsmqMulticastTest.pdb
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest\obj\Debug\MsmqMulticastTest.exe
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest\obj\Debug\MsmqMulticastTest.pdb

@@ -1,0 +1,6 @@
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest.Subscriber2\bin\Debug\MsmqMulticastTest.Subscriber2.exe.config
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest.Subscriber2\bin\Debug\MsmqMulticastTest.Subscriber2.exe
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest.Subscriber2\bin\Debug\MsmqMulticastTest.Subscriber2.pdb
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest.Subscriber2\obj\Debug\MsmqMulticastTest.Subscriber2.csprojResolveAssemblyReference.cache
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest.Subscriber2\obj\Debug\MsmqMulticastTest.Subscriber2.exe
+C:\Dev\JBSoft\Queuing\MsmqMulticastTest\MsmqMulticastTest.Subscriber2\obj\Debug\MsmqMulticastTest.Subscriber2.pdb
